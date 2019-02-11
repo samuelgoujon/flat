@@ -742,9 +742,9 @@ ul,li{
 	left:0px;
 	bottom:0px;
 	text-align:center;
-	width:234px;
+	width:214px;
 	max-height:150px;
-	background:#000;
+	background:#fff;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
