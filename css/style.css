@@ -694,7 +694,6 @@ ul,li{
 	height:26px;
 	margin-left:3px;
 	line-height:24px;
-	border:1px solid #999999;
 	color:#999999;
 	text-align:center;
 	transition:all 0.5s ease;
@@ -744,7 +743,6 @@ ul,li{
 	text-align:center;
 	width:214px;
 	max-height:150px;
-	background:#fff;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
 	-webkit-transition:all 500ms ease;
